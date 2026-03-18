@@ -1,1 +1,21 @@
-
+student_id,name,age,grade,hours_studied,attendance_percent,homework_done,club,city
+1,Ivan,15,5,12,96,yes,robotics,Moscow
+2,Anna,16,4,9,91,yes,art,Kazan
+3,Oleg,15,3,4,78,no,football,Moscow
+4,Maria,17,5,14,98,yes,science,Saint Petersburg
+5,Nikita,16,2,2,65,no,none,Novosibirsk
+6,Elena,15,4,8,88,yes,music,Kazan
+7,Pavel,17,5,11,94,yes,robotics,Moscow
+8,Sofia,16,5,13,97,yes,art,Saint Petersburg
+9,Artem,15,3,5,80,no,football,Moscow
+10,Daria,17,4,7,86,yes,science,Novosibirsk
+11,Kirill,16,2,3,70,no,none,Kazan
+12,Polina,15,5,10,93,yes,music,Moscow
+13,Maxim,17,4,6,84,yes,football,Saint Petersburg
+14,Alina,16,3,5,79,no,art,Novosibirsk
+15,Denis,15,5,15,99,yes,robotics,Moscow
+16,Vera,17,4,8,89,yes,science,Kazan
+17,Roman,16,3,4,76,no,none,Saint Petersburg
+18,Yulia,15,5,11,95,yes,music,Moscow
+19,Egor,17,2,1,60,no,football,Novosibirsk
+20,Liza,16,4,9,90,yes,art,Kazan
